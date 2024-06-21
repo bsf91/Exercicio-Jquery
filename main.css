@@ -60,7 +60,10 @@ button {
     border-radius: 5%;
     width: 25%;
     height: 25px;
+    overflow: hidden;
 }
+
+
 
 ul {
     align-items: center;
